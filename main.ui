@@ -215,6 +215,22 @@
       <string>Event box on top</string>
      </property>
     </widget>
+    <widget class="QComboBox" name="comboBox">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>190</y>
+       <width>361</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <property name="editable">
+      <bool>true</bool>
+     </property>
+     <property name="insertPolicy">
+      <enum>QComboBox::InsertPolicy::NoInsert</enum>
+     </property>
+    </widget>
    </widget>
   </widget>
   <widget class="QStatusBar" name="statusbar">
