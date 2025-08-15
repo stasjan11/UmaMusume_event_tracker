@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Scenario_img">
+    <file>Scenario_images/bnr_ico_001.png</file>
+    <file>Scenario_images/bnr_ico_002.png</file>
+    <file>Scenario_images/bnr_ico_003.png</file>
+    <file>Scenario_images/bnr_ico_004.png</file>
+    <file>Scenario_images/bnr_ico_005.png</file>
+    <file>Scenario_images/bnr_ico_006.png</file>
+    <file>Scenario_images/bnr_ico_007.png</file>
+  </qresource>
+</RCC>

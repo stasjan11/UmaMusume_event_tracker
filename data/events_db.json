@@ -1,0 +1,3441 @@
+{
+  "WIP": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Stamina +5"
+        ]
+      }
+    ]
+  },
+  "Freshly Made in Ample Amounts": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Stamina +5"
+        ]
+      }
+    ]
+  },
+  "The Taste of Warmth": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +5", "Power +5"
+        ]
+      }
+    ]
+  },
+  "Have a Second Helping!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10", "Power +5", "Swinging Maestro hint +1"
+        ]
+      }
+    ]
+  },
+  "Leave it to Me to Help Out! ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +15", "Super Creek bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +10", "Super Creek bond +5"
+        ]
+      }
+    ]
+  },
+  "Leave it to Me to Be Considerate! ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Deep Breaths hint +1", "Super Creek bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +10", "Stamina +5", "Super Creek bond +5"
+        ]
+      }
+    ]
+  },
+    "First-Rate Coaching": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10"
+        ]
+      }
+    ]
+  },
+  "First-Rate Advice": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +15", "Skill points +15"
+        ]
+      }
+    ]
+  },
+  "You May Socialize With Me!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -20", "Speed +10", "Power +10", "Wisdom +5", "King Halo bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Mood -1", "Guts +25", "King Halo bond +5"
+        ]
+      }
+    ]
+  },
+  "You May Advise Me!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Guts +10", "Wisdom +5", "King Halo bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Homestretch Haste hint +1", "King Halo bond +5"
+        ]
+      }
+    ]
+  },
+  "Studying with Your Body!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +27", "Skill points +33", "Mood +2", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "How I Play at the Park": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +27", "Wisdom +5", "Aoi Kiryuin bond +5", "(random) Mood +1"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Skill points +16", "Aoi Kiryuin bond +5",
+          "or",
+          "Speed +5", "Skill points +49", "Mood +1", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "Reckless Training": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +22", "Skill points +33", "Mood +1", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "The Joy of Respect": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Power +11", "Skill points +49", "Mood +1", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "Chasing Dreams": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Stamina +5", "Skill points +16", "(random) Subdued Front Runners hint +1", "Aoi Kiryuin bond +5",
+          "or",
+          "Stamina +5", "Power +5", "Guts +5", "Skill points +49", "Mood +1", "Subdued Front Runners hint +3", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "Trainer Tip: Always Improve Your Coaching": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +11", "Skill points +16", "Aoi Kiryuin bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +5", "Wisdom +5", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "The Search for a Hobby": {
+    "options": [
+      {
+        "name": "Dating starts",
+        "effects": []
+      },
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +22", "Skill points +16", "Mood +1", "Aoi Kiryuin bond +5",
+          "Can start dating"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Mood -1", "Maverick ○ hint +1", "Aoi Kiryuin bond -5",
+          "Event chain ended"
+        ]
+      }
+    ]
+  },
+  "Fellow Trainer Aoi Kiryuin": {
+    "options": [
+      {
+        "name": "After first training",
+        "effects": [
+          "Skill points +16", "Mood +1", "Aoi Kiryuin bond +5"
+        ]
+      }
+    ]
+  },
+  "Preparing My Special Move!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Sprint Straightaways ○ hint +1", "Biko Pegasus bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +30", "Biko Pegasus bond +5"
+        ]
+      }
+    ]
+  },
+  "Warmth, Love, and Lunch": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Get Charming ○ status", "Nishino Flower bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +20", "Nishino Flower bond +5"
+        ]
+      }
+    ]
+  },
+  "Let's Bloom Beautifully ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Wisdom +15", "Nishino Flower bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +10", "Power +5", "Nishino Flower bond +5"
+        ]
+      }
+    ]
+  },
+  "Genius Efficiency!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +15", "Sakura Bakushin O bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +5", "Power +10", "Sakura Bakushin O bond +5"
+        ]
+      }
+    ]
+  },
+  "Enough to Break into a Dash!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Gap Closer hint +1", "Sakura Bakushin O bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Speed +10", "Power +5", "Sakura Bakushin O bond +5"
+        ]
+      }
+    ]
+  },
+  "08:36 / Crap, I Overslept": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood -1", "Skill points +45", "Gold City bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +10", "Wisdom +5", "Gold City bond +5"
+        ]
+      }
+    ]
+  },
+  "13:12 / Lunch Break, Gotta Get Myself Together": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Skill points +30", "Gold City bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "A Small Breather hint +1", "Gold City bond +5"
+        ]
+      }
+    ]
+  },
+  "Yes! Let's Hug ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +10"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +5", "Power +5"
+        ]
+      }
+    ]
+  },
+  "Yeehaw! Party Tonight ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -10", "Speed +5", "Power +10"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Prepared to Pass hint +1"
+        ]
+      }
+    ]
+  },
+  "For an Adorable Younger Student": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Early Lead hint +1"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +5", "Speed +10"
+        ]
+      }
+    ]
+  },
+  "Drive Destination": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +1", "Speed +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Mood +1", "Wisdom +5"
+        ]
+      }
+    ]
+  },
+  "My Way, Or...": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +1", "Skill points +15", "Tokai Teio bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Guts +15", "Tokai Teio bond +5"
+        ]
+      }
+    ]
+  },
+  "My Weapon": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +1", "Guts +10", "Tokai Teio bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Pace Chaser Straightaways ○ hint +1", "Tokai Teio bond +5"
+        ]
+      }
+    ]
+  },
+  "On and On": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +10", "Stamina +5", "Silence Suzuka bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +15", "Silence Suzuka bond +5"
+        ]
+      }
+    ]
+  },
+  "What Should I Do?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +5", "Stamina +5", "Wisdom +5", "Silence Suzuka bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Left-Handed ○ hint +1", "Silence Suzuka bond +5"
+        ]
+      }
+    ]
+  },
+  "Wonderful ☆ Mistake!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Energy -15", "Skill points +40",
+          "or",
+          "Energy -20", "Skill points +40", "Sweep Tosho bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Get Charming ○ status", "Sweep Tosho bond +5"
+        ]
+      }
+    ]
+  },
+  "Just Start Running!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood -1", "Speed +20"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Power +20"
+        ]
+      }
+    ]
+  },
+  "I'm All Fired Up!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +15", "Twin Turbo bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Early Lead hint +1", "Twin Turbo bond +5"
+        ]
+      }
+    ]
+  },
+  "Ah, Friendship": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +1", "Power +5", "Kitasan Black bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +10", "Kitasan Black bond +5"
+        ]
+      }
+    ]
+  },
+  "Ah, Home Sweet Home": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +5", "Power +10", "Kitasan Black bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Get Practice Perfect ○ status", "Kitasan Black bond +5"
+        ]
+      }
+    ]
+  },
+  "Nighttime Secret": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Stamina +5"
+        ]
+      }
+    ]
+  },
+  "Enjoy the Musical!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Stamina +5", "Power +5", "I Can See Right Through You hint +1"
+        ]
+      }
+    ]
+  },
+  "Just Leave Me Alone": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +5", "Skill points +15", "Narita Taishin bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Power +5", "Skill points +15", "Narita Taishin bond +5"
+        ]
+      }
+    ]
+  },
+  "Just Don't Bother Me": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Pressure hint +1", "Narita Taishin bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Skill points +30", "Narita Taishin bond +5"
+        ]
+      }
+    ]
+  },
+  "A Good Manager": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Maximum Energy +4", "Energy +10", "Mood +1"
+        ]
+      }
+    ]
+  },
+  "A Good Friend": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +20", "Homestretch Haste hint +1"
+        ]
+      }
+    ]
+  },
+  "Unforeseen Lunch": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +15", "Eishin Flash bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +5", "Guts +5", "Eishin Flash bond +5"
+        ]
+      }
+    ]
+  },
+  "Responding to the Unforeseen": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Guts +10", "Eishin Flash bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Target in Sight ○ hint +1", "Eishin Flash bond +5"
+        ]
+      }
+    ]
+  },
+  "Some Very Green Friends": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +5", "Skill points +10", "Lucky Seven hint +1", "Sweep Tosho bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Mood -1", "Maverick ○ hint +5"
+        ]
+      }
+    ]
+  },
+  "Premeditated Mischief": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +10", "Skill points +20", "Levelheaded hint +1", "Sweep Tosho bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Mood -1", "Lone Wolf hint +1"
+        ]
+      }
+    ]
+  },
+  "Miracle ☆ Escape!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Speed +5", "Sweep Tosho bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Speed +20", "Sweep Tosho bond +5"
+        ]
+      }
+    ]
+  },
+  "Passionate Promises, Heroic Ambitions!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Guts +5"
+        ]
+      }
+    ]
+  },
+  "Brace Yourself: Training with CarrotRanger!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Guts +5"
+        ]
+      }
+    ]
+  },
+  "Showdown! Glorious Victory!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Power +5", "Guts +5", "Plan X hint +1"
+        ]
+      }
+    ]
+  },
+  "A Hero's Woes": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +15", "Biko Pegasus bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +5", "Power +5", "Biko Pegasus bond +5"
+        ]
+      }
+    ]
+  },
+    "How I Can Help": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Maximum Energy +4", "Skill points +10"
+        ]
+      }
+    ]
+  },
+  "Aspiring to Adulthood": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -10", "Wisdom +20", "Nishino Flower bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Wisdom +5", "Skill points +15"
+        ]
+      }
+    ]
+  },
+  "What's Important!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Wisdom +10", "Beeline Burst hint +1/+3 or Straightaway Adept hint +1"
+        ]
+      }
+    ]
+  },
+  "Bakushin's Cooking!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10"
+        ]
+      }
+    ]
+  },
+  "Bakushin's Love!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Power +5"
+        ]
+      }
+    ]
+  },
+  "Bakushin's Huge Success!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10", "Power +5", "Turbo Sprint hint +1"
+        ]
+      }
+    ]
+  },
+  "Pride": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +20"
+        ]
+      }
+    ]
+  },
+  "Struggle": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Stamina +10"
+        ]
+      }
+    ]
+  },
+  "One Step": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10", "Keen Eye hint +1"
+        ]
+      }
+    ]
+  },
+  "Premonitions of a Performer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Speed +5"
+        ]
+      }
+    ]
+  },
+  "Short Interlude": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Speed +5", "Wisdom +5"
+        ]
+      }
+    ]
+  },
+  "Legendary Act": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Speed +5", "Rushing Gale! hint +1", "Tokai Teio bond +5"
+        ]
+      }
+    ]
+  },
+    "Letters → ?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10"
+        ]
+      }
+    ]
+  },
+  "Letters → Feelings → ?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10", "Power +10"
+        ]
+      }
+    ]
+  },
+  "Letters → Feelings → Wait for Me, Okay?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +10", "Unrestrained hint +1"
+        ]
+      }
+    ]
+  },
+  "Someday, I'll Be Just Like Her!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Speed +5"
+        ]
+      }
+    ]
+  },
+  "Just a Little Closer": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -10", "Speed +15", "Special Week bond +5"
+        ]
+      },
+      {
+        "name": "Mid",
+        "effects": [
+          "Energy -10", "Skill points +20", "Special Week bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Shake It Out hint +1", "Special Week bond +5"
+        ]
+      }
+    ]
+  },
+  "Forms of Aspiration": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +10", "Speed +5", "Hydrate hint +1/+3",
+          "or",
+          "Energy +10", "Speed +10", "Skill points +10", "Gourmand hint +3"
+        ]
+      }
+    ]
+  },
+  "Watch Where You're Going!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Extra Tank hint +1", "Special Week bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Guts +15", "Special Week bond +5"
+        ]
+      }
+    ]
+  },
+  "So Many Options!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Mood +1", "Special Week bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Stamina +15", "Skill points +15", "Special Week bond +5"
+        ]
+      }
+    ]
+  },
+  "I'm Not Afraid!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Speed +10", "Twin Turbo bond +5",
+          "or",
+          "Energy -10", "Speed +10",
+          "Event chain ended"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +20",
+          "Event chain ended"
+        ]
+      }
+    ]
+  },
+  "Can't Catch Me!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Speed +15", "Leader's Pride hint +3", "Twin Turbo bond +5",
+          "or",
+          "Energy -10", "Speed +10",
+          "Event chain ended"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +25",
+          "Event chain ended"
+        ]
+      }
+    ]
+  },
+  "Turbo Is Strong!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Speed +5", "Early Lead hint +3",
+          "or",
+          "Energy -10", "Speed +25", "Taking the Lead hint +3", "Twin Turbo bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +15", "Watchful Eye hint +1"
+        ]
+      }
+    ]
+  },
+  "Chasing Brilliance": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Mood +1", "Speed +2", "Power +2", "Wisdom +2", "Kitasan Black bond +5"
+        ]
+      }
+    ]
+  },
+  "Paying It Forward": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Mood +1", "Kitasan Black bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Speed +5/+10", "Straightaway Adept hint +1/+3", "Kitasan Black bond +5"
+        ]
+      }
+    ]
+  },
+  "We Walk Together": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Speed +5", "Power +5", "Kitasan Black bond +5", "Professor of Curvature hint +1",
+          "or",
+          "Speed +10", "Power +10", "Kitasan Black bond +5", "Professor of Curvature hint +3"
+        ]
+      }
+    ]
+  },
+    "Solo Nighttime Run": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +10", "Manhattan Cafe bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +10", "Stamina +5", "Manhattan Cafe bond +5"
+        ]
+      }
+    ]
+  },
+  "A Taste of Silence": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +5", "Skill points +15", "Manhattan Cafe bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Non-Standard Distance ○ hint +1", "Manhattan Cafe bond +5"
+        ]
+      }
+    ]
+  },
+  "Snack Advice for Mayano!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +5", "Guts +5", "Mayano Top Gun bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +10", "Mayano Top Gun bond +5"
+        ]
+      }
+    ]
+  },
+  "Fashion Advice for Mayano!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Straightaway Adept hint +1", "Mayano Top Gun bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +10", "Mayano Top Gun bond +5"
+        ]
+      }
+    ]
+  },
+  "Tamamo's School Tour": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Wisdom +10", "Tamamo Cross bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +5", "Guts +5", "Tamamo Cross bond +5"
+        ]
+      }
+    ]
+  },
+  "A Battle I Can't Lose!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Calm in a Crowd hint +1", "Tamamo Cross bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +5", "Wisdom +5", "Tamamo Cross bond +5"
+        ]
+      }
+    ]
+  },
+  "A Page of Flower Shop Assistance": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +2", "Rice Shower bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Stamina +10", "Rice Shower bond +5"
+        ]
+      }
+    ]
+  },
+  "A Page About Cloudy Weather": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Speed +5", "Guts +5", "Rice Shower bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Firm Conditions ○ hint +1", "Rice Shower bond +5"
+        ]
+      }
+    ]
+  },
+  "Recruiting Cat Catchers": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Wisdom +5", "Seiun Sky bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Speed +15", "Stamina +5", "Seiun Sky bond +5"
+        ]
+      }
+    ]
+  },
+  "Recruiting Advisors": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Wisdom +15", "Seiun Sky bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Keeping the Lead hint +1", "Seiun Sky bond +5"
+        ]
+      }
+    ]
+  },
+  "Etude to Victory": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood -1", "Speed +5", "Skill points +30"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Power +5", "Skill points +15"
+        ]
+      }
+    ]
+  },
+  "Beyond Our Limited Time": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Skill points +15"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Non-Standard Distance ○ hint +1"
+        ]
+      }
+    ]
+  },
+    "To Maintain My Weight": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -10", "Stamina +15", "Mejiro McQueen bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Maximum Energy +4", "Stamina +5", "Mejiro McQueen bond +5"
+        ]
+      }
+    ]
+  },
+  "To Reach the Greatest Heights": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +5", "Guts +5", "Mejiro McQueen bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Early Lead hint +1", "Mejiro McQueen bond +5"
+        ]
+      }
+    ]
+  },
+  "Adventurer Gold Ship": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +15", "Gold Ship bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Guts +10", "Skill points +15", "Gold Ship bond +5"
+        ]
+      }
+    ]
+  },
+  "Revive the Brand! Golshi's Yakisoba": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Mood +1", "Stamina +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Hanshin Racecourse ○ hint +1", "Gold Ship bond +5"
+        ]
+      }
+    ]
+  },
+  "I Love New Things!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Guts +10", "Satono Diamond bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Stamina +20", "Satono Diamond bond +5"
+        ]
+      }
+    ]
+  },
+  "I Love Complicated Things!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Stamina +5", "Guts +10", "Satono Diamond bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Hesitant Front Runners hint +1", "Satono Diamond bond +5"
+        ]
+      }
+    ]
+  },
+  "Invitation on a Rainy Day": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +15", "Skill points +15"
+        ]
+      }
+    ]
+  },
+  "Invitation on a Stormy Day": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +15", "Studious hint +1", "Manhattan Cafe bond +5"
+        ]
+      }
+    ]
+  },
+  "Still Taxiing?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Skill points +30", "Mayano Top Gun bond +5"
+        ]
+      }
+    ]
+  },
+  "Take Off toward Trendy ♪": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10", "Skill points +15", "Focus hint +1", "Mayano Top Gun bond +5"
+        ]
+      }
+    ]
+  },
+    "A Page from a Windy Day": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Guts +10", "Rice Shower bond +5"
+        ]
+      }
+    ]
+  },
+  "A Page from a Day Spent with Friends": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10", "Rice Shower bond +5"
+        ]
+      }
+    ]
+  },
+  "A Page from a Day of Hard Work": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Extra Tank hint +1", "Rice Shower bond +5",
+          "or",
+          "Energy -10", "Adrenaline Rush hint +1", "Rice Shower bond +5",
+          "or",
+          "Energy -10", "Stamina +5", "Guts +5", "Adrenaline Rush hint +3", "Rice Shower bond +5"
+        ]
+      }
+    ]
+  },
+  "Expectations Are Power": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10"
+        ]
+      }
+    ]
+  },
+  "Expectations Are Affection": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Mood +1", "Stamina +10"
+        ]
+      }
+    ]
+  },
+  "Meeting Expectations": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Stamina +10", "Cooldown hint +3",
+          "or",
+          "Energy -10", "Deep Breaths hint +1"
+        ]
+      }
+    ]
+  },
+  "Beef, Pork, Chicken, Curry!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +5", "Power +5"
+        ]
+      }
+    ]
+  },
+  "Got My Priorities Straight": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +5", "Power +5", "Guts +5"
+        ]
+      }
+    ]
+  },
+  "My Flaws Make Me Who I Am!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +5", "Power +10", "Fast & Furious hint +1"
+        ]
+      }
+    ]
+  },
+    "Be Strategic ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy +10", "Wisdom +5", "Seiun Sky bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Skill points +30", "Second Wind hint +1", "Seiun Sky bond -5",
+          "Event chain ended"
+        ]
+      }
+    ]
+  },
+  "Beware of the Trap": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Speed +5", "Stamina +5"
+        ]
+      }
+    ]
+  },
+  "It's All to Win": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Mood +1", "Speed +5", "Stamina +5", "Wisdom +5", "Skill points +5", "Escape Artist hint +1/+3 or Fast-Paced hint +1"
+        ]
+      }
+    ]
+  },
+  "Fervor! Air Basketball!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy -10", "Stamina +25"
+        ]
+      }
+    ]
+  },
+  "Respect the Salmon!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy -10", "Guts +25"
+        ]
+      }
+    ]
+  },
+  "Can't Spell \"Rival\" without \"Friend\"!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Stamina +10", "Corner Connoisseur hint +1"
+        ]
+      }
+    ]
+  },
+  "Hope Bearer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy +10", "Stamina +2", "Guts +2", "Wisdom +2"
+        ]
+      }
+    ]
+  },
+  "Diamond Fixation": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Wisdom +10", "Satono Diamond bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Energy +15", "Stamina +10", "Satono Diamond bond +5",
+          "or",
+          "Mood -1", "Guts +20"
+        ]
+      }
+    ]
+  },
+  "Only for You": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -20", "Stamina +30", "Iron Will hint +1", "Satono Diamond bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy +5", "Guts +5", "Iron Will hint +1", "Satono Diamond bond +5"
+        ]
+      }
+    ]
+  },
+    "Chants Are the Life of a Concert ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Guts +10", "Smart Falcon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +15", "Smart Falcon bond +5"]
+      }
+    ]
+  },
+  "If I'm Cute, Come to My Show! ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +10", "Final Push hint +1", "Smart Falcon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Wisdom +5", "Smart Falcon bond +5"]
+      }
+    ]
+  },
+  "My Muscles and Me, Onward to Tomorrow!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +15", "Mejiro Ryan bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Maximum Energy +4", "Power +5", "Mejiro Ryan bond +5"]
+      }
+    ]
+  },
+  "It's Not Like I Like Romance!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Pace Strategy hint +1", "Mejiro Ryan bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30", "Mejiro Ryan bond +5"]
+      }
+    ]
+  },
+  "Do No Harm": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Stamina +5", "Power +15", "Mihono Bourbon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Wisdom +5", "Mihono Bourbon bond +5"]
+      }
+    ]
+  },
+  "Orders Must Be Followed": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Focus hint +1", "Mihono Bourbon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Skill points +15", "Mihono Bourbon bond +5"]
+      }
+    ]
+  },
+  "Last-Minute Modal Theory": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +15", "Biwa Hayahide bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Skill points +15", "Biwa Hayahide bond +5"]
+      }
+    ]
+  },
+  "Step-Out-of-Your-Comfort-Zone Theory": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Inside Scoop hint +1", "Biwa Hayahide bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Stamina +10", "Biwa Hayahide bond +5"]
+      }
+    ]
+  },
+  "Umamusume Deficiency!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +5", "Speed +5", "Agnes Digital bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Power +5", "Agnes Digital bond +5"]
+      }
+    ]
+  },
+  "Heavy Romance": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Rainy Days ○ hint +1", "Agnes Digital bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wet Conditions ○ hint +1", "Agnes Digital bond +5"]
+      }
+    ]
+  },
+  "Hishiama's Struggles: Problem Children": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Wisdom +5", "Hishi Amazon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Speed +10", "Guts +5", "Hishi Amazon bond +5"]
+      }
+    ]
+  },
+  "Hishiama's Struggles: Final Stretch": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Hesitant End Closers hint +1", "Hishi Amazon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15", "Hishi Amazon bond +5"]
+      }
+    ]
+  },
+  "Blazing Fire!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "El Condor Pasa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Power +20", "El Condor Pasa bond +5"]
+      }
+    ]
+  },
+  "Secret Notebook!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "El Condor Pasa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Sunny Days ○ hint +1", "El Condor Pasa bond +5"]
+      }
+    ]
+  },
+    "The Coolest Line": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Vodka bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15", "Vodka bond +5"]
+      }
+    ]
+  },
+  "Enemies on Main Street": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Nimble Navigator hint +1", "Vodka bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15", "Vodka bond +5"]
+      }
+    ]
+  },
+  "How Should I Respond?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +5", "Power +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Guts +15"]
+      }
+    ]
+  },
+  "Conquering the Crowds": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Nakayama Racecourse ○ hint +1"]
+      }
+    ]
+  },
+  "Encounter With the Sun ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Daitaku Helios bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Get Hot Topic status", "Daitaku Helios bond +5"]
+      }
+    ]
+  },
+  "Smiles Forever": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Power +10", "Daitaku Helios bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Long Shot ○ hint +1", "Daitaku Helios bond +5"]
+      }
+    ]
+  },
+  "Where Cool Comes From": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Skill points +15", "Mejiro Ryan bond +5"]
+      }
+    ]
+  },
+  "Carried by Cheers": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +15", "Nimble Navigator hint +1", "Mejiro Ryan bond +5"]
+      }
+    ]
+  },
+  "I'm Not a Cyborg": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10", "Skill points +15", "Mihono Bourbon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Energy -10", "Corner Recovery ○ hint +1", "(Randomly) Mihono Bourbon bond -5",
+          "Event chain ended"
+        ]
+      }
+    ]
+  },
+  "New Values Installed": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy -10", "Power +5", "Guts +5", "Front Runner Straightaways ○ hint +1", "Mihono Bourbon bond +5"
+        ]
+      }
+    ]
+  },
+  "A Big Sister's Job": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Power +15"]
+      }
+    ]
+  },
+  "Training in Theory": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -20", "Power +5", "Pressure hint +1",
+          "or",
+          "Energy -10", "Stamina +5", "Power +15", "Biwa Hayahide bond +5", "Pressure hint +3"
+        ]
+      }
+    ]
+  },
+  "Happy Otaku Life": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "My Love for Umamusume is Eternal!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Power +10", "Frenzied End Closers hint +1"]
+      }
+    ]
+  },
+    "True to Myself": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Power +5", "Hishi Amazon bond +5"]
+      }
+    ]
+  },
+  "A Hishiama Solution": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10", "Masterful Gambit hint +1"]
+      }
+    ]
+  },
+  "#BFF #Party!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Daitaku Helios bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Daitaku Helios bond +5"]
+      }
+    ]
+  },
+  "#LOL #Party! #Round2": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Power +10",
+          "Randomly either",
+          "Speed +10", "Straight Descent hint +1",
+          "or",
+          "Straight Descent hint +3", "Daitaku Helios bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +20", "Watchful Eye hint +1", "Daitaku Helios bond +5"]
+      }
+    ]
+  },
+  "Always on Stage ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10", "Smart Falcon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +25", "Focus hint +1", "Smart Falcon bond +5",
+        "Event chain ended"]
+      }
+    ]
+  },
+  "Shining Always and Everywhere ☆": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Power +5"]
+      }
+    ]
+  },
+  "My Umadol Way ☆": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Maximum Energy +4", "Stamina +5", "Power +5", "Wisdom +5",
+          "Randomly either",
+          "Prudent Positioning hint +1",
+          "or",
+          "Center Stage hint +3"
+        ]
+      }
+    ]
+  },
+  "World Class": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Guts +5"]
+      }
+    ]
+  },
+  "Uma-me": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30", "El Condor Pasa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina to Spare hint +1", "El Condor Pasa bond +5",
+        "Event chain ended"]
+      }
+    ]
+  },
+  "Luchadora El!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +10", "Killer Tunes hint +1"]
+      }
+    ]
+  },
+  "Gotta Follow My Heart": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Skill points +15"]
+      }
+    ]
+  },
+  "A Vow to the Setting Sun": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Skill points +15"]
+      }
+    ]
+  },
+  "Put That on the Record, Okay?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Skill points +30", "Breath of Fresh Air hint +1"]
+      }
+    ]
+  },
+  "A Plushie...": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Maximum Energy +4", "Power +5"]
+      }
+    ]
+  },
+  "How Should I Respond? WIP(2)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Skill points +10", "Stamina to Spare hint +1", "Oguri Cap bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +5", "Skill points +10", "Outer Swell hint +1", "Oguri Cap bond +5"]
+      }
+    ]
+  },
+  "What I Want to Say": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Power +10", "Guts +5", "Skill points +10", "Oguri Cap bond +5", "Furious Feat hint +1",
+          "or",
+          "Power +15", "Guts +10", "Skill points +15", "Oguri Cap bond +5", "Furious Feat hint +3"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30"]
+      }
+    ]
+  },
+    "Not like Meow": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +20", "Nice Nature bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Wisdom +5", "Nice Nature bond +5"]
+      }
+    ]
+  },
+  "(Delicious) Burden": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Ramp Up hint +1", "Nice Nature bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Maximum Energy +4", "Nice Nature bond +5"]
+      }
+    ]
+  },
+  "I... Will Change": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood +1", "Meisho Doto bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +15", "Meisho Doto bond +5"]
+      }
+    ]
+  },
+  "Please... Buy Some Carrots": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Wisdom +5", "Meisho Doto bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Pace Chaser Corners ○ hint +1", "Meisho Doto bond +5"]
+      }
+    ]
+  },
+  "It's a Game of Tag!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Speed +5", "Ines Fujin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Fast-Paced hint +1", "Ines Fujin bond +5"]
+      }
+    ]
+  },
+  "Ten Minutes Left!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +15", "Ines Fujin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +15", "Ines Fujin bond +5"]
+      }
+    ]
+  },
+  "For a Spiffy Concert": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10", "Yukino Bijin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Guts +15", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "Aiming for the City Spots": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Mood +1", "Guts +10", "Yukino Bijin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Corner Acceleration ○ hint +1", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "Strict but Gracious": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Go with the Flow hint +1", "Air Groove bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Wisdom +10", "Air Groove bond +5"]
+      }
+    ]
+  },
+  "Agile but Strong": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +15", "Air Groove bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Stamina +5", "Air Groove bond +5"]
+      }
+    ]
+  },
+  "Urara's ☆ Study Review": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Wisdom +5", "Haru Urara bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Wisdom +5", "Haru Urara bond +5"]
+      }
+    ]
+  },
+  "Urara's ☆ Long Shot Dash!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Long Shot ○ hint +1", "Haru Urara bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Energy +10", "Haru Urara bond +5"]
+      }
+    ]
+  },
+  "Full-Power Muscles!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Skill points +15", "Winning Ticket bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Skill points +15", "Winning Ticket bond +5"]
+      }
+    ]
+  },
+  "Full-Power Racing!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Late Surger Corners ○ hint +1", "Winning Ticket bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +30", "Winning Ticket bond +5"]
+      }
+    ]
+  },
+    "Library Vexation": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10", "Grass Wonder bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +5", "Wisdom +5", "Grass Wonder bond +5"]
+      }
+    ]
+  },
+  "A Friendly Daytime Discussion": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Frenzied Pace Chasers hint +1", "Grass Wonder bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Target in Sight ○ hint +1", "Grass Wonder bond +5"]
+      }
+    ]
+  },
+  "An Inescapable Choice?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -15", "Guts +20", "Mejiro Palmer bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15", "Mejiro Palmer bond +5"]
+      }
+    ]
+  },
+  "Optimistic Escapism": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +15", "Mejiro Palmer bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wet Conditions ○ hint +1", "Mejiro Palmer bond +5"]
+      }
+    ]
+  },
+  "Just Your Typical Hard Work!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Matikanetannhauser bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10", "Matikanetannhauser bond +5"]
+      }
+    ]
+  },
+  "Just A Typical Accident?!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Guts +10", "Matikanetannhauser bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Subdued Front Runners hint +1", "Matikanetannhauser bond +5"]
+      }
+    ]
+  },
+  "A Light Workout (for a Hardworker)": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Guts +5"]
+      }
+    ]
+  },
+  "Visible Improvement (But So What?!)": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Guts +10", "Extra Tank hint +1"]
+      }
+    ]
+  },
+  "What I'm Destined For...": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Guts +5", "Meisho Doto bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Wisdom +5",
+          "or",
+          "Maximum Energy +4", "Mood +1", "Guts +5", "Wisdom +5", "Meisho Doto bond +5"
+        ]
+      }
+    ]
+  },
+  "What I'm Looking For...": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Mood +1", "Skill points +15", "Prepared to Pass hint +1"]
+      }
+    ]
+  },
+  "Gotta Practice Order'n!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Power +5", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "A Natural City Girl": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Wisdom +25"]
+      }
+    ]
+  },
+    "As Dignified as a Moth Orchid": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Guts +5"]
+      }
+    ]
+  },
+  "Bloom by the Oak": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -20", "Power +5", "Guts +5", "Straightaway Acceleration hint +1", "Air Groove bond +5"]
+      }
+    ]
+  },
+  "Trying Hard with Rice!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10"]
+      }
+    ]
+  },
+  "Trying Hard with King!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Haru Urara bond +5", "Energy +10"]
+      }
+    ]
+  },
+  "Trying Hard with Everyone's Support!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +15", "Haru Urara bond +5", "Unruffled hint +1"]
+      }
+    ]
+  },
+  "Username: W&T": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Everyone Was Sore for Days!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Guts +5"]
+      }
+    ]
+  },
+  "We Are BNW!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +10", "On Your Left! hint +1"]
+      }
+    ]
+  },
+  "The Power of a Big Sister": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Speed +5", "Stamina +5", "Guts +10"]
+      }
+    ]
+  },
+  "Take a Step": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Guts +10", "Skill points +30", "Ines Fujin bond +5"]
+      }
+    ]
+  },
+  "Aim for That Sparkling Moment!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Guts +10", "Restless hint +1",
+          "or",
+          "Moxie hint +1",
+          "or",
+          "Energy -10", "Guts +20", "Wisdom +5", "Restless hint +3"
+        ]
+      }
+    ]
+  },
+    "Quiet Passion": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Wisdom +5", "Skill points +15", "Grass Wonder bond +5"]
+      }
+    ]
+  },
+  "A Moment's Respite": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +15", "Grass Wonder bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Power +5", "Guts +5", "Wisdom +5", "Grass Wonder bond +5",
+          "or",
+          "Power +5", "Guts +5", "Wisdom +10", "Grass Wonder bond +5"
+        ]
+      }
+    ]
+  },
+  "Hidden Petals": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Speed +5", "Guts +5", "Wisdom +5", "Updrafters hint +1", "Grass Wonder bond +5",
+          "or",
+          "Energy -10", "Speed +5", "Guts +10", "Wisdom +5", "Furious Feat hint +3", "Grass Wonder bond +5"
+        ]
+      }
+    ]
+  },
+  "Dance in Cleats!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Stamina +5"]
+      }
+    ]
+  },
+  "A Roller Coaster of Feelings!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Speed +5", "Stamina +5", "Guts +10", "Special Week bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +20", "Wisdom +10", "Special Week bond +5",
+        "Event chain ended"]
+      }
+    ]
+  },
+  "Our Audience": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy -10", "Speed +5", "Stamina +5", "Guts +5", "Homestretch Haste hint +1", "Special Week bond +5",
+          "or",
+          "Energy -10", "Speed +15", "Stamina +15", "Guts +15", "In Body and Mind hint +3", "Special Week bond +5"
+        ]
+      }
+    ]
+  },
+  "Run Away to First Base": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -15", "Stamina +10", "Guts +10", "Mejiro Palmer bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -15", "Guts +10", "Wisdom +10", "Mejiro Palmer bond +5"]
+      }
+    ]
+  },
+  "Runaway Romance": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Guts +5", "Wisdom +5", "Mejiro Palmer bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Front Runner Savvy ○ hint +1", "Mejiro Palmer bond +5"]
+      }
+    ]
+  },
+  "Optimistic Escapism: Never Give Up!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Energy -20", "Stamina +5", "Guts +5",
+          "Randomly either",
+          "Vanguard Spirit hint +3",
+          "or",
+          "Keeping the Lead hint +1/+3", "Mejiro Palmer bond +5"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Lone Wolf hint +1", "Mejiro Palmer bond +5"]
+      }
+    ]
+  },
+  "Seeking Uniqueness!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "Matikanetannhauser bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Randomly either", "Energy +10", "or", "Energy +30", "Matikanetannhauser bond +5"]
+      }
+    ]
+  },
+  "Becoming a Prankster": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5", "Skill points +10", "Matikanetannhauser bond +5"]
+      }
+    ]
+  },
+  "Unique Running?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Power +10", "Skill points +15", "Matikanetannhauser bond +5", "Unruffled hint +3",
+          "or",
+          "Power +5", "Skill points +10", "Matikanetannhauser bond +5", "Calm in a Crowd hint +3"
+        ]
+      }
+    ]
+  },
+    "Sleight of Hand": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +5", "Skill points +15", "Fuji Kiseki bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15", "Fuji Kiseki bond +5"]
+      }
+    ]
+  },
+  "Misdirection": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Prepared to Pass hint +1", "Fuji Kiseki bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +30", "Fuji Kiseki bond +5"]
+      }
+    ]
+  },
+  "Give It a Try": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +15", "Mejiro Dober bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Skill points +15", "Mejiro Dober bond +5"]
+      }
+    ]
+  },
+  "Hope She'll Like It...": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Skill points +45", "Mejiro Dober bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Unyielding Spirit hint +1", "Mejiro Dober bond +5"]
+      }
+    ]
+  },
+  "Maximum Spirituality": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +5", "Skill points +15", "Matikanefukukitaru bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Speed +5", "Stamina +5", "Power +5", "Matikanefukukitaru bond +5"]
+      }
+    ]
+  },
+  "When Piety and Kindness Intersect": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Skill points +30", "Matikanefukukitaru bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +20", "Matikanefukukitaru bond +5"]
+      }
+    ]
+  },
+  "Marvelous, No Question ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Speed +5", "Marvelous Sunday bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Speed +5", "Marvelous Sunday bond +5"]
+      }
+    ]
+  },
+  "How To Be More Marvelous ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood +1", "Marvelous Sunday bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Hanshin Racecourse ○ hint +1", "Marvelous Sunday bond +5"]
+      }
+    ]
+  },
+  "Verification Required": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Guts +5", "Air Shakur bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Stamina +5", "Guts +10", "Air Shakur bond +5"]
+      }
+    ]
+  },
+  "Absolute Desire": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Pace Strategy hint +1", "Air Shakur bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Maximum Energy +4", "Guts +5", "Air Shakur bond +5"]
+      }
+    ]
+  },
+  "The Correlation between Sleep and Efficiency": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Wisdom +5", "Agnes Tachyon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10", "Agnes Tachyon bond +5"]
+      }
+    ]
+  },
+  "Happenstance Introduced Through Intervention": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Late Surger Savvy ○ hint +1", "Agnes Tachyon bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10", "Agnes Tachyon bond +5"]
+      }
+    ]
+  },
+    "Wonderful New Shoes": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Skill points +10", "Fine Motion bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Stamina +5", "Skill points +20", "Fine Motion bond +5"]
+      }
+    ]
+  },
+  "Reminiscent Clover": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Corner Adept ○ hint +1", "Fine Motion bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +15", "Fine Motion bond +5"]
+      }
+    ]
+  },
+  "I'm Going to Win Tomorrow!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10", "Daiwa Scarlet bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Skill points +15", "Daiwa Scarlet bond +5"]
+      }
+    ]
+  },
+  "This Is Nothing!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina to Spare hint +1", "Daiwa Scarlet bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +20", "Mood +1", "Daiwa Scarlet bond +5"]
+      }
+    ]
+  },
+  "The Emperor's Encouragement": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -10", "Skill points +30"]
+      }
+    ]
+  },
+  "The Student Council President's Thoughtfulness": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Rainy Days ○ hint +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +15"]
+      }
+    ]
+  },
+  "Ikuno-Style Flawless Method": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10", "Ikuno Dictus bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +30", "Ikuno Dictus bond +5"]
+      }
+    ]
+  },
+  "Ikuno-Style Management": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +20", "Ikuno Dictus bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Trick (Rear) hint +1", "Ikuno Dictus bond +5"]
+      }
+    ]
+  },
+  "Don't Need to Be Complimented": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Guts +5"]
+      }
+    ]
+  },
+  "Don't Need to Be Seen": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +5", "Stamina +5",
+          "or",
+          "Energy +20", "Stamina +15", "Slick Surge hint +1"
+        ]
+      }
+    ]
+  },
+  "Spirits' Lost and Found": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +5", "Mood +1", "Skill points +15", "Matikanefukukitaru bond +5"]
+      }
+    ]
+  },
+  "Guidance and Friends": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Skill points +45", "Matikanefukukitaru bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Energy +10", "Mood +1", "Right-Handed ○ hint +3", "Matikanefukukitaru bond +5",
+          "or",
+          "Energy -20", "Right-Handed ○ hint +1", "Matikanefukukitaru bond +5"
+        ]
+      }
+    ]
+  },
+  "Marvelous World Plan ☆": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +5", "Wisdom +5"]
+      }
+    ]
+  },
+  "Marvelously Marvelous ☆": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +15", "Wisdom +15"]
+      }
+    ]
+  },
+    "Report: Potential of Specialized Training": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +5", "Skill points +15"]
+      }
+    ]
+  },
+  "Report: N/A (On Break)": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10", "Skill points +15", "Subdued Front Runners hint +1"]
+      }
+    ]
+  },
+  "I Won't Lose to Anyone!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +15", "Wisdom +5", "Daiwa Scarlet bond +5"]
+      }
+    ]
+  },
+  "I Can Clean Better than Anyone!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10", "Tactical Tweak hint +1"]
+      }
+    ]
+  },
+  "Abracadabra": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Out of This World": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10", "Skill points +15", "Flustered End Closers hint +1"]
+      }
+    ]
+  },
+  "Ikuno-Style Friendship": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10", "Skill points +20"]
+      }
+    ]
+  },
+  "Ikuno-Style Support": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +15", "Frenzied Front Runners hint +3", "Ikuno Dictus bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +15", "Frenzied End Closers hint +3", "Ikuno Dictus bond +5"]
+      }
+    ]
+  },
+    "Chasing Their Backs": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +5", "Wisdom +3", "Nice Nature bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Nice Nature bond +20"]
+      }
+    ]
+  },
+  "Wind at My Back": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Wisdom +5", "Long Shot ○ hint +3", "Nice Nature bond +5"]
+      }
+    ]
+  },
+  "Block Out the Noise": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Wisdom +5"]
+      }
+    ]
+  },
+  "A Realist's Passion": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Wisdom +5", "Skill points +5"]
+      }
+    ]
+  },
+  "I'm the Strongest": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +15", "Wisdom +15", "Skill points +30", "Unyielding hint +2"]
+      }
+    ]
+  },
+  "Lovely Training Weather ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +5", "Skill points +20", "Fine Motion bond +5"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Speed +10", "Stamina +5", "Fine Motion bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Get Practice Perfect ○ status", "Fine Motion bond +5"]
+      }
+    ]
+  },
+  "Lovely Concert Weather ♪": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Skill points +10"]
+      }
+    ]
+  },
+  "Lovely Racing Weather ♪": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy -10", "Guts +5", "Wisdom +5/10", "Skill points +15",
+          "Randomly either",
+          "Speed Star hint +1/+3",
+          "or",
+          "Prepared to Pass hint +1"
+        ]
+      }
+    ]
+  },
+    "Milk with a Chance of Apples": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +25", "Speed +5", "Mood +1", "Tazuna Hayakawa bond +5"]
+      }
+    ]
+  },
+  "Inexplicable Speed": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +25", "Tazuna Hayakawa bond +5", "Heal a negative status effect"]
+      }
+    ]
+  },
+  "Memories of Cinema": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +25", "Stamina +5", "Mood +1", "Tazuna Hayakawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10", "Guts +10", "Mood +1", "Tazuna Hayakawa bond +5"]
+      }
+    ]
+  },
+  "A Sigh and a Bandage": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +35", "Wisdom +5", "Mood +1", "Tazuna Hayakawa bond +5", "Heal a negative status effect"]
+      }
+    ]
+  },
+  "A Surprise Breather": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +35", "Skill points +30", "Mood +2", "Tazuna Hayakawa bond +5",
+        "Randomly either",
+        "Focus hint +1",
+        "or",
+        "Concentration hint +1"]
+      }
+    ]
+  },
+  "My Chosen Way of Life": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood +1", "Tazuna Hayakawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Wisdom +5", "Tazuna Hayakawa bond +5"]
+      }
+    ]
+  },
+  "Enthusiastic Pair": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Wisdom +5", "Mood +1", "Tazuna Hayakawa bond +5",
+        "Can start dating"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood -1", "Tazuna Hayakawa bond -5", "Watchful Eye hint +1",
+        "Event chain ended"]
+      }
+    ]
+  },
+  "Tazuna, the Director's Secretary": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Skill points +15", "Mood +1", "Tazuna Hayakawa bond +5"]
+      }
+    ]
+  },
+  "Good Job! ♪": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1(Randomly)", "Speed +3", "Tazuna Hayakawa bond +5"]
+      }
+    ]
+  },
+  "From Just a Little Closer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +6", "Skill points +30"]
+      }
+    ]
+  },
+  "The Usual, Please!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +20"]
+      }
+    ]
+  },
+  "Aspirations Entrusted": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +10", "Speed +15", "Mood +1", "Tazuna Hayakawa bond +5", "Tail Held High hint +3"]
+      }
+    ]
+  },
+  "Good Job!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1 (Randomly)", "Wisdom +3", "Aoi Kiryuin bond +5"]
+      }
+    ]
+  },
+  "Gift of Words": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Hesitant End Closers hint +1/3", "Lay Low hint +3"]
+      }
+    ]
+  },
+  "The Perfect Place for a Party": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["3 random stats +5"]
+      }
+    ]
+  },
+  "A Bond with Aoi: Being a Good Mentor": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +15", "Skill points +15", "Mood +1", "Shake It Out hint +1/3", "Aoi Kiryuin bond +5"]
+      }
+    ]
+  },
+    "Yaeno's Off-Site Training": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Power +5", "Skill points +10"]
+      }
+    ]
+  },
+  "A Reasonable Diet vs. an Explosive Diet": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +10", "Yaeno Muteki bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Wisdom +10", "Skill points +10", "Playtime's Over! hint +3", "Event chain ended"]
+      }
+    ]
+  },
+  "Yaeno Muteki's Love Song Nightmare": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Energy -10",
+          "Speed +5",
+          "Randomly either",
+          "Stamina +5",
+          "or",
+          "Power +10",
+          "Randomly either",
+          "It's On! hint +1",
+          "or",
+          "It's On! hint +3"
+        ]
+      }
+    ]
+  },
+  "Firm and Plain, Yet Close to Virtue": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Power +5"]
+      }
+    ]
+  },
+  "The Will to Protect!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Medium Corners ○ hint +1"]
+      }
+    ]
+  },
+  "Hot Derby Special!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Power +5"]
+      }
+    ]
+  },
+  "Special Rival Training!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Stamina +5", "Power +5"]
+      }
+    ]
+  },
+  "Dream-Fulfilling Challenge!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -30", "Stamina +5", "Power +5", "In Body and Mind hint +2"]
+      }
+    ]
+  },
+  "I Want You to Rest!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Speed +3", "Power +3", "Wisdom +3"]
+      }
+    ]
+  },
+  "I Want to Say Thank You!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Straightaway Adept hint +1", "Nishino Flower bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +5", "Straightaway Acceleration hint +1", "Nishino Flower bond +5"]
+      }
+    ]
+  },
+  "Cozy Memories of Wanko Soba": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "Yukino Bijin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Maximum Energy +4", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "The Class Rep's Intense Crash Course": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "Power +5", "Yukino Bijin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +3", "Guts +3", "Wisdom +3", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "I Wanna Win!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "No Stopping Me! hint +1", "Yukino Bijin bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +3", "Guts +3", "Wisdom +3", "No Stopping Me! hint +1", "Yukino Bijin bond +5"]
+      }
+    ]
+  },
+  "The Bookworm and the Magical Girl": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Wisdom +5", "Zenno Rob Roy bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +20", "Power +10", "Zenno Rob Roy bond +5", "Event chain ended"]
+      }
+    ]
+  },
+  "Someday, I'll Be the Main Character": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +10", "Wisdom +10", "Sharp Gaze hint +1"]
+      }
+    ]
+  },
+  "Book-lover Quirks": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Wisdom +5", "Zenno Rob Roy bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +10", "Power +5", "Zenno Rob Roy bond +5"]
+      }
+    ]
+  },
+  "A Tale Entrusted": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Wisdom +10", "Zenno Rob Roy bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Medium Straightaways ○ hint +1", "Zenno Rob Roy bond +5"]
+      }
+    ]
+  }
+}
