@@ -57,6 +57,7 @@ class MainWindow(QMainWindow):
         super(MainWindow, self).__init__(parent)
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
+        self.ui.StartButton.setEnabled(False)
 
         self.reader = easyocr.Reader(['en'])
         self.timer = QTimer()
@@ -209,14 +210,17 @@ class MainWindow(QMainWindow):
         # Игнорируем первый пустой элемент
         if index == 0:
             self.Sub_Database = None
+            self.ui.StartButton.setEnabled(False)
             return
 
         selected_file = self.ui.comboBox.itemData(index)
         if selected_file:
             self.Sub_Database = selected_file.replace('.png', '')
             self.log_message(f"\nВыбрана база: {self.Sub_Database.replace('_', ' ')}")
+            self.ui.StartButton.setEnabled(True)  # Делаем кнопку активной
         else:
             self.Sub_Database = None
+            self.ui.StartButton.setEnabled(False)  # Делаем кнопку неактивной
 
     def showEvent(self, event):
         super().showEvent(event)
