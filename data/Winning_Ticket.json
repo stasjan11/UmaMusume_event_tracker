@@ -1,0 +1,449 @@
+{
+  "Full-Power Testing!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +20"]
+      }
+    ]
+  },
+  "Full-Power Fashion!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10", "Guts +10"]
+      }
+    ]
+  },
+  "Full-Power Effort!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Wisdom +10", "(random) Get Hot Topic status"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20", "(random) Get Hot Topic status"]
+      }
+    ]
+  },
+  "Rain or Shine": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Stamina +10", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Overcome the Towering Obstacle!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "Guts +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Power +5"]
+      }
+    ]
+  },
+  "A Fresh Perspective": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Nimble Navigator hint +1"]
+      }
+    ]
+  },
+  "Full-Power Eating!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30",
+          "Skill points +10",
+          "or (~10%)",
+          "Energy +30",
+          "Skill points +10",
+          "Speed -5",
+          "Power +5",
+          "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+  "Play of the Three Kingdoms": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +5", "Skill points +15"]
+      }
+    ]
+  },
+  "Futsal, Now?!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "The Last Ticket": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Shake Off Your Blues!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood +1", "Power +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Skill points +15"]
+      }
+    ]
+  },
+  "Big Girls Cry Too": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +5", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Mood +1", "Power +5"]
+      }
+    ]
+  },
+  "Bonus at start": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Skill points +120"]
+      }
+    ]
+  },
+  "Failed training (Get Well Soon!)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood -1", "Last trained stat -5", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -1",
+          "Last trained stat -10",
+          "(random) Get Practice Poor status",
+          "or",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Failed training (Don't Overdo It!)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood -2", "Last trained stat -10", "2 random stats -10", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -3",
+          "Last trained stat -10",
+          "2 random stats -10",
+          "Get Practice Poor status",
+          "or",
+          "Energy +10",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Extra Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -5", "Last trained stat +5", "(random) Heal a negative status effect", "Yayoi Akikawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5"]
+      }
+    ]
+  },
+  "At Summer Camp (Year 2)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Fan Letter": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Skill points +30"]
+      }
+    ]
+  },
+  "Dance Lesson": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "New Year's Resolutions": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Energy +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +20"]
+      }
+    ]
+  },
+  "New Year's Shrine Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["All stats +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +35"]
+      }
+    ]
+  },
+    "Rivals": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5"]
+      }
+    ]
+  },
+  "I Wanna Win!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +5"]
+      }
+    ]
+  },
+  "What Makes a Good Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +5"]
+      }
+    ]
+  },
+  "Waiting for Progress": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5", "Guts +5"]
+      }
+    ]
+  },
+  "BNW Is Back": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Lost Umamusume": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom -5", "Mood -1"]
+      }
+    ]
+  },
+  "Master Trainer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +10", "(random) Get Practice Perfect ○ status"]
+      }
+    ]
+  },
+  "We're the Best": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +5"]
+      }
+    ]
+  },
+  "Mr. Chalk's Misfortune": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood -1"]
+      }
+    ]
+  },
+  "The Long Road to Dessert": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Mood -1"]
+      }
+    ]
+  },
+  "Higher and Higher": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +30", "Mood +2", "(random) Get Fast Learner status"]
+      }
+    ]
+  },
+  "Perfect Weather for Tinkering?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +15",
+          "Guts -5",
+          "Mood -1",
+          "or",
+          "Energy +15",
+          "Guts -5",
+          "Get Slacker status"
+        ]
+      }
+    ]
+  },
+    "Exhilarating! What a Scoop!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "A Trainer's Knowledge": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "Best Foot Forward!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +20", "Guts +20", "Beeline Burst hint +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30", "Stamina +20", "Breath of Fresh Air hint +1"]
+      }
+    ]
+  },
+  "Happy Shoe Shopping": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Kiryuin's Day Off": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "A Three-Legged Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +20", "Skill points +20", "Iron Will hint +1"]
+      }
+    ]
+  }
+}

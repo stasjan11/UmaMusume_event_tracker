@@ -1,0 +1,284 @@
+{
+  "Am I Enough?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20"]
+      }
+    ]
+  },
+  "Sweet & Lively Joy": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +20"]
+      }
+    ]
+  },
+  "I Am Enough": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10", "Wisdom +10", "(random) Get Charming ○ status"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10", "Power +10", "(random) Get Charming ○ status"]
+      }
+    ]
+  },
+  "Training Inspiration": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Guts +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5", "Skill points +15"]
+      }
+    ]
+  },
+  "Wonderful New Worlds": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Wisdom +5"]
+      }
+    ]
+  },
+  "Looking on the Bright Side": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Firm Conditions ○ hint +1"]
+      }
+    ]
+  },
+  "A Page about Apples": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30",
+          "Skill points +10",
+          "or (~10%)",
+          "Energy +30",
+          "Skill points +10",
+          "Speed -5",
+          "Power +5",
+          "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+  "Even When the Ladybugs Are Gone": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Even When Clouds Cover the Sky": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Power +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "My Sun": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +5", "Wisdom +5"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Speed +5", "Power +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "I've Got This!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "A Page about Sunsets": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Guts +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +5", "Wisdom +5"]
+      }
+    ]
+  },
+  "Bonus at start": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Skill points +120"]
+      }
+    ]
+  },
+  "Get Well Soon!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood -1", "Last trained stat -5", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -1",
+          "Last trained stat -10",
+          "(random) Get Practice Poor status",
+          "or",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Don't Overdo It!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood -2", "Last trained stat -10", "2 random stats -10", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -3",
+          "Last trained stat -10",
+          "2 random stats -10",
+          "Get Practice Poor status",
+          "or",
+          "Energy +10",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Extra Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -5", "Last trained stat +5", "(random) Heal a negative status effect", "Yayoi Akikawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5"]
+      }
+    ]
+  },
+  "At Summer Camp (Year 2)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Fan Letter": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Skill points +30"]
+      }
+    ]
+  },
+  "Dance Lesson": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "New Year's Resolutions": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Energy +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +20"]
+      }
+    ]
+  },
+  "New Year's Shrine Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["All stats +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +35"]
+      }
+    ]
+  }
+}

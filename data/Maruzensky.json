@@ -1,0 +1,446 @@
+{
+  "Trendsetter": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20"]
+      }
+    ]
+  },
+  "Sewing Star": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10", "Power +10"]
+      }
+    ]
+  },
+  "My Favorite Things": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +20", "Get Fast Learner status(random)"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10", "Guts +10", "Get Fast Learner status(random)"]
+      }
+    ]
+  },
+  "Hot Rod": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Let's Play ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy -5", "Power +10", "Guts +5"]
+      }
+    ]
+  },
+  "A Lady's Style ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Skill points +10", "Mood +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Huge Lead hint +1"]
+      }
+    ]
+  },
+  "Let's Cook!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "The Road to a Rad Victory!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Down to Dance!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Nostalgia Fever ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30", "Skill points +10",
+          "or (~10%)",
+          "Energy +30", "Skill points +10", "Speed -5", "Power +5", "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+  "The Secret to Supporting Each Other": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Even Role Models Get Lonely": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +5", "Guts +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Power +5"]
+      }
+    ]
+  },
+  "Take the Wheel": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Meeting New People Is Trendy ☆": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "The Fun Never Stops ♪": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +5", "Wisdom +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +5", "Power +5"]
+      }
+    ]
+  },
+    "Failed training (Get Well Soon!)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood -1", "Last trained stat -5", "Get Practice Poor status(random)"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -1", "Last trained stat -10", "Get Practice Poor status(random)",
+          "or",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Failed training (Don't Overdo It!)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood -2", "Last trained stat -10", "2 random stats -10", "Get Practice Poor status(random)"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -3", "Last trained stat -10", "2 random stats -10", "Get Practice Poor status",
+          "or",
+          "Energy +10", "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Extra Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -5", "Last trained stat +5", "Heal a negative status effect(random)", "Yayoi Akikawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5"]
+      }
+    ]
+  },
+  "At Summer Camp (Year 2)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Fan Letter": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Skill points +30"]
+      }
+    ]
+  },
+  "Dance Lesson": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "New Year's Resolutions": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Energy +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +20"]
+      }
+    ]
+  },
+  "New Year's Shrine Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["All stats +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +35"]
+      }
+    ]
+  },
+  "Feeling Top Gear": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Walk the Walk": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "To New Heights": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5"]
+      }
+    ]
+  },
+  "A Fun Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +5"]
+      }
+    ]
+  },
+  "Bring It": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5", "Guts +5"]
+      }
+    ]
+  },
+  "Virtual Car Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed -5", "Mood -1"]
+      }
+    ]
+  },
+  "Master Trainer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10", "Get Practice Perfect ○ status(random)"]
+      }
+    ]
+  },
+  "The Coolest Spot": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +5"]
+      }
+    ]
+  },
+  "Golden Oldies?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood -1"]
+      }
+    ]
+  },
+  "Big Trouble!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Mood -1"]
+      }
+    ]
+  },
+  "A Totally Bomb ☆ New Feeling": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +30", "Mood +2", "Get Fast Learner status(random)"]
+      }
+    ]
+  },
+  "Shockingly Careless": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +15", "Guts -5", "Mood -1",
+          "or",
+          "Energy +15", "Guts -5", "Get Slacker status"
+        ]
+      }
+    ]
+  },
+  "Exhilarating! What a Scoop!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "A Trainer's Knowledge": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "Best Foot Forward!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +20", "Guts +20", "Beeline Burst hint +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30", "Stamina +20", "Breath of Fresh Air hint +1"]
+      }
+    ]
+  },
+  "A Three-Legged Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +20", "Skill points +20", "Iron Will hint +1"]
+      }
+    ]
+  }
+}

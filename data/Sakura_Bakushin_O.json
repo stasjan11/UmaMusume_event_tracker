@@ -1,0 +1,434 @@
+{
+  "Bakushin for Love!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +20"]
+      }
+    ]
+  },
+  "A Day Without a Class Rep": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20"]
+      }
+    ]
+  },
+  "Bakushin in Signature Racewear!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Guts +10", "Randomly either", "Get Hot Topic status"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +20", "Randomly either", "Get Hot Topic status"]
+      }
+    ]
+  },
+  "The Bakushin Book!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "The Voices of the Students": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Stamina +10", "Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "Solving Riddles, Bakushin Style!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Nakayama Racecourse ○ hint +1"]
+      }
+    ]
+  },
+  "Bakushin?! Class?!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30", "Skill points +10",
+          "or (~10%)",
+          "Energy +30", "Skill points +10", "Speed -5", "Power +5", "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+    "Bakushin-ing with a Classmate!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Guts +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Wisdom +5"]
+      }
+    ]
+  },
+  "The Best Bakushin!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +5", "Guts +5"]
+      }
+    ]
+  },
+  "Bakushin, Now and Forever!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Guts +5", "Wisdom +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Together with Someone Important!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Stamina +5"]
+      }
+    ]
+  },
+  "The Speed King": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +5", "Wisdom +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "Get Well Soon!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood -1", "Last trained stat -5", "Randomly either", "Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -1", "Last trained stat -10", "Get Practice Poor status(randomly)",
+          "or",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Don't Overdo It!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood -2", "Last trained stat -10", "2 random stats -10", "Randomly either", "Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -3", "Last trained stat -10", "2 random stats -10", "Get Practice Poor status",
+          "or",
+          "Energy +10", "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Extra Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -5", "Last trained stat +5", "Randomly either", "Heal a negative status effect", "Yayoi Akikawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5"]
+      }
+    ]
+  },
+  "At Summer Camp": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Fan Letter": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Skill points +30"]
+      }
+    ]
+  },
+  "Dance Lesson": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "New Year's Resolutions": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Energy +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +20"]
+      }
+    ]
+  },
+  "New Year's Shrine Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["All stats +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +35"]
+      }
+    ]
+  },
+    "Bakushin-Style Findings!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Bakushin-Style Arima Kinen!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Bakushin-Style Deal?!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Bakushin-Style Training?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +5"]
+      }
+    ]
+  },
+  "Bakushin-Style Truth": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "Just An Ordinary Student": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood -1", "Stamina -5"]
+      }
+    ]
+  },
+  "On My Title!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["1 random stat +10", "Skill points +10"]
+      }
+    ]
+  },
+  "All Rep Showdown!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +10", "Get Charming ○ status"]
+      }
+    ]
+  },
+  "Master Trainer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10", "Randomly either", "Get Practice Perfect ○ status"]
+      }
+    ]
+  },
+  "The Bakushin Road Continues!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +5"]
+      }
+    ]
+  },
+  "Model Student Training!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood -1"]
+      }
+    ]
+  },
+  "My Rival!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Mood -1"]
+      }
+    ]
+  },
+  "Honest! Experiment! Demonstration!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +30", "Mood +2", "Randomly either", "Get Fast Learner status"]
+      }
+    ]
+  },
+  "The Class Rep Is Very Busy!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +15", "Guts -5", "Mood -1",
+          "or",
+          "Energy +15", "Guts -5", "Get Slacker status"
+        ]
+      }
+    ]
+  },
+    "Exhilarating! What a Scoop!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "A Trainer's Knowledge": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "Best Foot Forward!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +20", "Guts +20", "Beeline Burst hint +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30", "Stamina +20", "Breath of Fresh Air hint +1"]
+      }
+    ]
+  },
+  "Happy Shoe Shopping": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Kiryuin's Day Off": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10"]
+      }
+    ]
+  }
+}
