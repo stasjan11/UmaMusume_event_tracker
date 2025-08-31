@@ -3437,5 +3437,181 @@
         "effects": ["Medium Straightaways ○ hint +1", "Zenno Rob Roy bond +5"]
       }
     ]
+  },
+    "Exhilarating! What a Scoop!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "A Trainer's Knowledge": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10", "Etsuko Otonashi bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10", "Etsuko Otonashi bond +5"]
+      }
+    ]
+  },
+  "Best Foot Forward!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +20", "Guts +20", "Beeline Burst hint +1"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +30", "Stamina +20", "Breath of Fresh Air hint +1"]
+      }
+    ]
+  },
+  "A Three-Legged Race": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Wisdom +20", "Skill points +20", "Iron Will hint +1"]
+      }
+    ]
+  },
+  "Happy Shoe Shopping": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Kiryuin's Day Off": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "Acupuncture (Just an Acupuncturist, No Worries! ☆)": {
+    "options": [
+      {
+        "name": "1",
+        "effects": [
+          "Randomly either (~30%)",
+          "All stats +20",
+          "or (~70%)",
+          "Mood -2",
+          "All stats -15",
+          "Get Night Owl status"
+        ]
+      },
+      {
+        "name": "2",
+        "effects": [
+          "Randomly either (~45%)",
+          "Obtain Corner Recovery ○ skill",
+          "Obtain Straightaway Recovery skill",
+          "or (~55%)",
+          "Energy -20",
+          "Mood -2"
+        ]
+      },
+      {
+        "name": "3",
+        "effects": [
+          "Randomly either (~70%)",
+          "Maximum Energy +12",
+          "Energy +40",
+          "Heal all negative status effects",
+          "or (~30%)",
+          "Energy -20",
+          "Mood -2",
+          "Get Practice Poor status"
+        ]
+      },
+      {
+        "name": "4",
+        "effects": [
+          "Randomly either (~85%)",
+          "Energy +20",
+          "Mood +1",
+          "Get Charming ○ status",
+          "or (~15%)",
+          "Energy -10/-20",
+          "Mood -1",
+          "(random) Get Practice Poor status"
+        ]
+      },
+      {
+        "name": "5",
+        "effects": ["Energy +10"]
+      }
+    ]
+  },
+    "Bonus at start": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Skill points +120"]
+      }
+    ]
+  },
+  "Get Well Soon!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Mood -1", "Last trained stat -5", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -1",
+          "Last trained stat -10",
+          "(random) Get Practice Poor status",
+          "or",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Don't Overdo It!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Mood -2", "Last trained stat -10", "2 random stats -10", "(random) Get Practice Poor status"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Mood -3",
+          "Last trained stat -10",
+          "2 random stats -10",
+          "Get Practice Poor status",
+          "or",
+          "Energy +10",
+          "Get Practice Perfect ○ status"
+        ]
+      }
+    ]
+  },
+  "Extra Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -5", "Last trained stat +5", "(random) Heal a negative status effect", "Yayoi Akikawa bond +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Energy +5"]
+      }
+    ]
   }
 }

@@ -1,0 +1,184 @@
+{
+  "Resolve and Duty": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10", "Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20"]
+      }
+    ]
+  },
+  "Late-Night Fanservice Training": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +20"]
+      }
+    ]
+  },
+  "Elegance": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Power +10", "(random) Get Practice Perfect ○ status"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +20", "(random) Get Practice Perfect ○ status"]
+      }
+    ]
+  },
+  "Queen of the Island": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "It's Called a Sea Pineapple!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Skill points +30"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "Cooking Up Memories": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Early Lead hint +1"]
+      }
+    ]
+  },
+  "The Allure of Racecourse Food": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": [
+          "Randomly either",
+          "Energy +30",
+          "Stamina +10",
+          "Skill points +10",
+          "or",
+          "Energy +30",
+          "Skill points +10",
+          "Speed -5",
+          "Power +5",
+          "Get Slow Metabolism status"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +15", "Skill points +5"]
+      }
+    ]
+  },
+  "Attack of the Chestnut Feast!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30",
+          "Skill points +10",
+          "or (~10%)",
+          "Energy +30",
+          "Skill points +10",
+          "Speed -5",
+          "Power +5",
+          "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+  "Two Tickets for the Silver Screen": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +5", "Skill points +15"]
+      }
+    ]
+  },
+  "An Excited Young Lady": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "Endless Kingdom": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Wisdom +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Power +5"]
+      }
+    ]
+  },
+  "Bargain Find": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Three Ramen Bowls' Worth of Temptation": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Skill points +30"
+        ]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +5", "Stamina +5"]
+      }
+    ]
+  }
+}

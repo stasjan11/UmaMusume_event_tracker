@@ -1,0 +1,373 @@
+{
+  "The Red of the Protagonist!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Wisdom +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +20"]
+      }
+    ]
+  },
+  "A Date, Golshi Style": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +20"]
+      }
+    ]
+  },
+  "A Sudden Episode from Golshi's Past!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Wisdom +10", "(random) Get Fast Learner status"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +20", "(random) Get Fast Learner status"]
+      }
+    ]
+  },
+  "Pair Discount Repeat Offender": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "Which Did You Lose?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy -10", "Power +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "My Part-Time Job Is... Crazy?": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10", "Skill points +15"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Hanshin Racecourse ○ hint +1"]
+      }
+    ]
+  },
+  "The Day After, Voices Hoarse": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "This One's For Keeps!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either",
+          "Skill points +60",
+          "Non-Standard Distance ○ hint +1",
+          "or",
+          "Skill points +15",
+          "Get Slacker status"
+        ]
+      }
+    ]
+  },
+  "Killer Appetite!": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +10", "Skill points +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": [
+          "Randomly either (~90%)",
+          "Energy +30",
+          "Skill points +10",
+          "or (~10%)",
+          "Energy +30",
+          "Skill points +10",
+          "Speed -5",
+          "Power +5",
+          "Get Slow Metabolism status"
+        ]
+      }
+    ]
+  },
+  "Legend of the Left Pinky": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "Hello From About 1.5 Billion Years Ago": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "And Then She...": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Speed +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Power +10"]
+      }
+    ]
+  },
+  "A Lovely Place": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Wisdom +10"]
+      }
+    ]
+  },
+  "Nighttime Park Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Guts +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Speed +10"]
+      }
+    ]
+  },
+  "At Summer Camp (Year 2)": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "Fan Letter": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood +1", "Skill points +30"]
+      }
+    ]
+  },
+  "Dance Lesson": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Power +10"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Guts +10"]
+      }
+    ]
+  },
+  "New Year's Resolutions": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Stamina +10"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["Energy +20"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +20"]
+      }
+    ]
+  },
+  "New Year's Shrine Visit": {
+    "options": [
+      {
+        "name": "Top",
+        "effects": ["Energy +30"]
+      },
+      {
+        "name": "Mid",
+        "effects": ["All stats +5"]
+      },
+      {
+        "name": "Bot",
+        "effects": ["Skill points +35"]
+      }
+    ]
+  },
+    "Moms Over Gods": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Power +5"]
+      }
+    ]
+  },
+  "Aiming for Paris Fashion Week": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +5"]
+      }
+    ]
+  },
+  "Aiming for Normiedom": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +5"]
+      }
+    ]
+  },
+  "A Serious Battle": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Guts +5"]
+      }
+    ]
+  },
+  "Road to Eden": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +10"]
+      }
+    ]
+  },
+  "The Seven Wonders of Golshi (Pending)": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Speed -5", "Mood -1"]
+      }
+    ]
+  },
+  "Golshi the Fickle Maiden ☆": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy +20", "Mood +1", "4 random types of training will be disabled for one turn"]
+      }
+    ]
+  },
+  "Master Trainer": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Stamina +10", "(random) Get Practice Perfect ○ status"]
+      }
+    ]
+  },
+  "The Start of a New Journey!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +5"]
+      }
+    ]
+  },
+  "Golshi in Big Trouble?!": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Mood -1"]
+      }
+    ]
+  },
+  "School Defense Squad?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["Energy -10", "Mood -1"]
+      }
+    ]
+  },
+  "Golshi the Great Detective?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": ["All stats +5", "Skill points +30", "Mood +2", "(random) Get Fast Learner status"]
+      }
+    ]
+  },
+  "Into the Sky?": {
+    "options": [
+      {
+        "name": "Const",
+        "effects": [
+          "Randomly either",
+          "Energy +15",
+          "Mood -1",
+          "Guts -5",
+          "or",
+          "Energy +15",
+          "Guts -5",
+          "Get Slacker status",
+          "or",
+          "Energy +15",
+          "Mood -1",
+          "Guts -5",
+          "Get Slacker status"
+        ]
+      }
+    ]
+  }
+}
